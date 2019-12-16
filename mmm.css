@@ -1,0 +1,140 @@
+#yemian{
+	margin:6% auto;width:700px
+}
+#daboaiti{
+	color: #C6C6C6;
+	font-family:Impact, Charcoal;
+	top: 500px;
+	margin:5% auto;width:700px;
+}
+
+#zhuye{
+	color: #C6C6C6;
+	font-family:Impact, Charcoal;
+	top: 700px;
+	margin:9% auto;width:700px;
+     }
+#logo{
+	margin-bottom :-3px;
+	margin-right: 100px;
+	border-right: 10px;
+}
+#biaoti{
+	color: #C6C6C6;
+	font-family:Impact, Charcoal;
+
+}
+
+#nav {
+    line-height:30px;
+    width:300px;
+    right: 150px;
+    float:left;
+    padding:0px; 
+    margin-top: 20px;
+    color: #C6C6C6;
+}
+
+
+div{
+color: #121212;
+}
+
+#gan{
+	margin-right:  30px;
+}
+
+
+#fengmianbiaoti{
+	color: #C6C6C6;
+	font-family:Impact, Charcoal;
+    padding:0px; 
+    margin: 7px;
+    outline-offset: 00px;
+}
+#fengmianbiaoti:hover{
+	font-weight: bold;
+	text-decoration-line: underline;
+	color: white;
+	text-decoration:none
+}
+#fengmianbiaoti:active{
+	
+	color: white;
+	font-weight: bold;
+	text-decoration-line: none;
+}
+
+img#tupian{
+	border-width: 10px;
+}
+
+#wenben{ 
+white-space:nowrap
+color: #C6C6C6;
+font-family:Impact, Charcoal} 
+
+#xiaobiaoti{
+	color: #C6C6C6;
+	font-family:Impact, Charcoal;
+	width: 150px;
+	float:left;
+	font-weight: bold;
+	text-align: left;
+    margin: 10px 0 0 0;
+
+}
+
+#weixuan{
+	color: #7c7c7c;
+	font-family:Impact, Charcoal;
+	width: 150px;
+	float:left;
+	border-top: 5px;
+	text-align: left;
+	margin: 10px 0px 0 0;
+}
+
+#weixuan:hover{
+	font-weight: bold;
+	text-decoration-line: underline;
+	text-decoration:none
+}
+#weixuan:active{
+	
+	color: #C6C6C6;
+	font-weight: bold;
+	text-decoration-line: none;
+}
+
+#home{
+	color: #7c7c7c;
+	font-family:Impact, Charcoal;
+	width: 150px;
+	position: absolute;	
+	right: 13%;
+	margin-top: 16px;
+
+
+	
+}
+
+#home:hover{
+
+	font-weight: bold;
+	text-decoration-line: underline;
+	text-decoration:none
+}
+#home:active{
+	
+	color: #C6C6C6;
+	font-weight: bold;
+	text-decoration-line: none;
+}
+
+#wenzi{color: #C6C6C6;
+	font-family:Impact, Charcoal;
+	text-align: left;
+    margin: 10px 0 10 10px;
+
+}
